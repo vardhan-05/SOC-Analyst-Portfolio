@@ -1,4 +1,4 @@
-# 🛡️ SOC Analyst Portfolio
+# SOC Analyst Portfolio
 
 **Security Operations | SIEM | Threat Detection | Incident Response**
 
@@ -6,7 +6,7 @@ Welcome to my SOC Analyst portfolio. This repository documents my hands-on cyber
 
 My goal is to develop practical skills in identifying suspicious activity, investigating security alerts, analyzing evidence, and documenting incident response recommendations.
 
-## 🔧 Technical Skills
+## Technical Skills
 
 - **SIEM:** Splunk, SPL queries, alert triage
 - **Endpoint Security:** Windows Event Logs, Sysmon, EDR alert investigation
@@ -15,7 +15,7 @@ My goal is to develop practical skills in identifying suspicious activity, inves
 - **Detection Engineering:** Sigma rules, MITRE ATT&CK mapping
 - **Incident Response:** Investigation timelines, severity assessment, escalation and reporting
 
-## 📂 Projects
+## Projects
 
 ### 1. Windows Event Log Investigation
 - Analyze successful and failed authentication events.
@@ -52,7 +52,7 @@ My goal is to develop practical skills in identifying suspicious activity, inves
 
 **Tools:** Splunk, Sysmon, MITRE ATT&CK
 
-## 🧪 Investigation Methodology
+## Investigation Methodology
 
 1. Alert review and initial triage
 2. Evidence collection and validation
@@ -62,17 +62,17 @@ My goal is to develop practical skills in identifying suspicious activity, inves
 6. Verdict assessment and confidence
 7. Containment recommendations and incident reporting
 
-## 📚 References
+## References
 
 - [MITRE ATT&CK](https://attack.mitre.org/)
 - [Splunk Documentation](https://docs.splunk.com/)
 - [Sigma Rules](https://github.com/SigmaHQ/sigma)
 - [Microsoft Security Documentation](https://learn.microsoft.com/en-us/windows/security/)
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This portfolio is intended for educational and defensive cybersecurity purposes. Lab exercises use authorized environments, simulated scenarios, or publicly available training data. Any investigation conclusions are based on the evidence available in the respective project.
 
-## 📈 Continuous Learning
+## Continuous Learning
 
 I am continuously improving my SOC investigation, detection engineering, SIEM querying, and incident response skills through hands-on labs and documented case studies.
